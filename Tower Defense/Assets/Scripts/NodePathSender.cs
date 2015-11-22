@@ -9,7 +9,8 @@ public class NodePathSender : MonoBehaviour
 
     [SerializeField]
     List<Node> availableNodes = new List<Node>();
-
+    [SerializeField]
+    List<Node> switchingNodes = new List<Node>();
 
     // Use this for initialization
     void Start()
@@ -31,6 +32,13 @@ public class NodePathSender : MonoBehaviour
         get
         {
             return availableNodes;
+        }
+    }
+    public List<Node> getSwitchingMapNodes
+    {
+        get
+        {
+            return switchingNodes;
         }
     }
 
