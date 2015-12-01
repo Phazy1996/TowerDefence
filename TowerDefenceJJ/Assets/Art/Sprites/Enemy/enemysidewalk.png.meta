@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: b2a10b624dc0dc848bb213df5af3ef49
+timeCreated: 1448452725
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemysidewalk_0
+    21300002: enemysidewalk_1
+    21300004: enemysidewalk_2
+    21300006: enemysidewalk_3
+    21300008: enemysidewalk_4
+    21300010: enemysidewalk_5
+    21300012: enemysidewalk_6
+    21300014: enemysidewalk_7
+    21300016: enemysidewalk_8
+    21300018: enemysidewalk_9
+    21300020: enemysidewalk_10
+    21300022: enemysidewalk_11
+    21300024: enemysidewalk_12
+    21300026: enemysidewalk_13
+    21300028: enemysidewalk_14
+    21300030: enemysidewalk_15
+    21300032: enemysidewalk_16
+    21300034: enemysidewalk_17
+    21300036: enemysidewalk_18
+    21300038: enemysidewalk_19
+    21300040: enemysidewalk_20
+    21300042: enemysidewalk_21
+    21300044: enemysidewalk_22
+    21300046: enemysidewalk_23
+    21300048: enemysidewalk_24
+    21300050: enemysidewalk_25
+    21300052: enemysidewalk_26
+    21300054: enemysidewalk_27
+    21300056: enemysidewalk_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 180
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemysidewalk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1549
+        width: 207
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1550
+        width: 205
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1551
+        width: 203
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1551
+        width: 202
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_4
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1552
+        width: 199
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1552
+        width: 197
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_6
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1553
+        width: 195
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1170
+        width: 192
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1171
+        width: 190
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1173
+        width: 195
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1176
+        width: 198
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1175
+        width: 201
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_12
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1174
+        width: 204
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_13
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1173
+        width: 208
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 788
+        width: 212
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 788
+        width: 203
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_16
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 788
+        width: 193
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 788
+        width: 197
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 789
+        width: 199
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_19
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 786
+        width: 202
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_20
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 785
+        width: 203
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 204
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 402
+        width: 204
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 403
+        width: 204
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_24
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 404
+        width: 205
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_25
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 403
+        width: 206
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_26
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 401
+        width: 206
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_27
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 400
+        width: 207
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysidewalk_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 207
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
