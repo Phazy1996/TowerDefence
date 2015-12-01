@@ -1,9 +1,33 @@
 fileFormatVersion: 2
-guid: 05b829c7254873149997bcbd10f0771f
-timeCreated: 1448372657
+guid: 289f14751f041484ebffdbf795381dff
+timeCreated: 1448623932
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: enemysideattack_0
+    21300002: enemysideattack_1
+    21300004: enemysideattack_2
+    21300006: enemysideattack_3
+    21300008: enemysideattack_11
+    21300010: enemysideattack_5
+    21300012: enemysideattack_6
+    21300014: enemysideattack_13
+    21300016: enemysideattack_7
+    21300018: enemysideattack_9
+    21300020: enemysideattack_10
+    21300022: enemysideattack_12
+    21300024: enemysideattack_14
+    21300026: enemysideattack_15
+    21300028: enemysideattack_16
+    21300030: enemysideattack_17
+    21300032: enemysideattack_18
+    21300034: enemysideattack_19
+    21300036: enemysideattack_20
+    21300038: enemysideattack_21
+    21300040: enemysideattack_22
+    21300042: enemysideattack_23
+    21300044: enemysideattack_8
+    21300046: enemysideattack_4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -48,7 +72,227 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: enemysideattack_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1165
+        width: 207
+        height: 385
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 778
+        width: 201
+        height: 772
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1165
+        width: 169
+        height: 385
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1165
+        width: 155
+        height: 385
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 778
+        width: 167
+        height: 773
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_5
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1165
+        width: 158
+        height: 386
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_6
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1165
+        width: 160
+        height: 386
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_7
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 778
+        width: 169
+        height: 388
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 778
+        width: 161
+        height: 386
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_9
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 778
+        width: 164
+        height: 386
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_10
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 778
+        width: 165
+        height: 386
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_11
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 778
+        width: 168
+        height: 386
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_12
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 391
+        width: 250
+        height: 384
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 391
+        width: 241
+        height: 381
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 391
+        width: 246
+        height: 378
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_15
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 391
+        width: 238
+        height: 375
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_16
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 391
+        width: 233
+        height: 375
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_17
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 391
+        width: 216
+        height: 375
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_18
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 391
+        width: 189
+        height: 375
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 194
+        height: 378
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4
+        width: 199
+        height: 380
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemysideattack_21
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 4
+        width: 203
+        height: 383
+      alignment: 8
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
